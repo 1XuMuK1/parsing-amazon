@@ -9,7 +9,7 @@ curl-http==0.1.2
 googletrans==2.4.0
 idna==2.8
 lxml==4.4.1
-Mako==1.1.0
+Mako==1.2.2
 MarkupSafe==1.1.1
 parsel==1.5.2
 psycopg2==2.7.5
